@@ -1,7 +1,4 @@
-<!-- #region -->
-Here's a comprehensive README for your project that covers all the components we discussed, including the machine learning model, preprocessing steps, prediction process, and tools used:
 
----
 # Vera
 ### A Fashion Trends Prediction Project
 
