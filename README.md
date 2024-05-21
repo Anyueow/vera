@@ -2,8 +2,8 @@
 Here's a comprehensive README for your project that covers all the components we discussed, including the machine learning model, preprocessing steps, prediction process, and tools used:
 
 ---
-
-# Fashion Trends Prediction Project
+# Vera
+### A Fashion Trends Prediction Project
 
 This project utilizes a deep learning model to predict fashion trends by analyzing images from various fashion events. The goal is to identify the most frequently appearing fashion items (e.g., jackets, shoes, dresses) across a collection of images and determine what is trending.
 
